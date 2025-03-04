@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-Title: The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)
+title: "The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)"
 ---
 
 Eliminating all on-board components of an IoT device by using crystal-free/-less chip-scale wireless system innovation is the future trend of the trillion-node deployment vision. Recent work in this field has drawn significant attention in both industry and academia and is poised to usher in a new era of IoT research and development. The key drivers of these developing trends are a focus on system-based research with IoT devices and research platforms, innovation in circuit design, and improvements in system integration. In addition to the design and research on the systems themselves, their practical application to multiple disciplines will play an essential role in the adoption of these technologies in a tremendous number of IoT-based industries.
