@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)
-
 Eliminating all on-board components of an IoT device by using crystal-free/-less chip-scale wireless system innovation is the future trend of the trillion-node deployment vision. Recent work in this field has drawn significant attention in both industry and academia and is poised to usher in a new era of IoT research and development. The key drivers of these developing trends are a focus on system-based research with IoT devices and research platforms, innovation in circuit design, and improvements in system integration. In addition to the design and research on the systems themselves, their practical application to multiple disciplines will play an essential role in the adoption of these technologies in a tremendous number of IoT-based industries.
 
 The CrystalFreeIoT workshop will bring together researchers and technical experts to share experiences and state-of-the-art research work under crystal-free/-less radio or system integration and thinking in multiple IoT related topics.
@@ -43,4 +41,4 @@ We also invite any presenting authors to register and attend the main EWSN confe
 
 The workshop language is in English. Submitted papers are required to comply with guidelines for ACM conference manuscripts and must not exceed 6 pages in length for papers and 2 pages for short submissions.
 
-Submission site will open soon!
+[Submission site is hosted on EasyChair](https://easychair.org/conferences?conf=crystalfreeiot2025) and will open soon!
