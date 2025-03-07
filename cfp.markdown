@@ -38,6 +38,11 @@ We also invite any presenting authors to register and attend the main EWSN confe
 
 ## Submission Instructions
 
-The workshop language is in English. Submitted papers are required to comply with guidelines for ACM conference manuscripts and must not exceed 6 pages in length for papers and 2 pages for short submissions.
+The workshop language is in English. Submitted papers are required to comply with guidelines for ACM conference manuscripts and must not exceed 6 pages in length for papers and 2 pages for short submissions. ACM guides and templates for LaTeX and Word are available:
+
+* [Preparing Your Article with LaTeX
+](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)
+* [Preparing Your Article with Microsoft Word
+](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word)
 
 [Submission site is hosted on EasyChair](https://easychair.org/conferences?conf=crystalfreeiot2025) and will open soon!
