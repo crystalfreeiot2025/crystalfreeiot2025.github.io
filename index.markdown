@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)"
+title: home
 ---
+
+<h1>The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)</h1>
 
 The CrystalFreeIoT 2025 workshop will bring together researchers and technical experts to share experiences and state-of-the-art research work under crystal-free/-less radio or system integration and thinking in multiple IoT related topics. It will be co-located with [EWSN 2025](https://www.ewsn25.cs.kuleuven.be/) in Leuven, Belgium and held on 22 September 2025.
 
@@ -42,9 +44,9 @@ The workshop language is in English. Submitted papers are required to comply wit
 
 The The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT is supported by:
 
-<img src="img/pdx.png" style="height:200px;"> 
-<img src="img/hkustgz.png" style="height:200px;"> 
-<img src="img/inria.png" style="height:200px;"> 
-<img src="img/kuleuven.png" style="height:200px;"> 
+<img src="img/pdx.png" style="height:40px;"> 
+<img src="img/hkustgz.png" style="height:40px;"> 
+<img src="img/inria.png" style="height:40px;"> 
+<img src="img/kuleuven.png" style="height:40px;"> 
 
 Inria SWARM2 Associate Team [crystalfree.org](http://www.crystalfree.org)
