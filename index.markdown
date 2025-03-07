@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: home
 ---
 
 <h1>The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)</h1>
@@ -42,11 +41,12 @@ The workshop language is in English. Submitted papers are required to comply wit
 
 ## Support
 
-The The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT is supported by:
+The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT is supported by:
 
-<img src="img/pdx.png" style="height:40px;"> 
-<img src="img/hkustgz.png" style="height:40px;"> 
-<img src="img/inria.png" style="height:40px;"> 
-<img src="img/kuleuven.png" style="height:40px;"> 
+<img src="img/pdx.png" style="width:200px;"> 
+<img src="img/hkustgz.png" style="width:200px;"> 
+
+<img src="img/inria.png" style="width:200px;"> 
+<img src="img/kuleuven.png" style="width:200px;"> 
 
 Inria SWARM2 Associate Team [crystalfree.org](http://www.crystalfree.org)
