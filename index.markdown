@@ -43,10 +43,13 @@ The workshop language is in English. Submitted papers are required to comply wit
 
 The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT is supported by:
 
-<img src="img/pdx.png" style="width:200px;"> 
-<img src="img/hkustgz.png" style="width:200px;"> 
+<img src="img/pdx.png" style="width:300px;"> 
+<img src="img/hkustgz.png" style="width:300px;"> 
 
-<img src="img/inria.png" style="width:200px;"> 
-<img src="img/kuleuven.png" style="width:200px;"> 
+<img src="img/inria.png" style="width:300px;"> 
+<img src="img/kuleuven.png" style="width:300px;"> 
 
-Inria SWARM2 Associate Team [crystalfree.org](http://www.crystalfree.org)
+[<img src="img/openswarm.png" style="width:300px;">](https://openswarm.eu/)
+
+
+### Inria SWARM2 Associate Team [crystalfree.org](http://www.crystalfree.org)
