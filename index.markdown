@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+header:
+	image: img/header.jpg
+	caption: "Photo credit: Wikipedia"
 ---
 
 <h1>The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT (CrystalFreeIoT 2025)</h1>
@@ -29,7 +32,7 @@ We also welcome poster submissions in a short-paper format to showcase in-progre
 
 ## Important Dates
 
-* Workshop Paper Deadline: 01 June 2025 (AoE, 23:59 UTC-12)
+* Workshop Paper Deadline: ~~01 June 2025 (AoE, 23:59 UTC-12)~~ 01 July 2025 (AoE, 23:59 UTC-12) (FIRM)
 * Notification of Paper Acceptance: 15 July 2025
 * Camera-Ready Deadline: 18 July 2025
 
