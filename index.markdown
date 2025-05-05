@@ -28,7 +28,7 @@ We solicit paper submissions with systematic design on topics including, but not
 
 We also welcome poster submissions in a short-paper format to showcase in-progress research, new problem discussions, or recent results.
 
-[A PDF version of this call for proposals is also available.](doc/CrystalFreeIoT2025-CFP.pdf)
+[A PDF version of this call for proposals is also available.](doc/CrystalFreeIoT2025-CFP_v2.pdf)
 
 ## Important Dates
 
