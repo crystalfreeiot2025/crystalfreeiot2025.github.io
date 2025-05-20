@@ -8,7 +8,7 @@ Eliminating all on-board components of an IoT device by using crystal-free/-less
 
 The CrystalFreeIoT workshop will bring together researchers and technical experts to share experiences and state-of-the-art research work under crystal-free/-less radio or system integration and thinking in multiple IoT related topics.
 
-We solicit paper submissions with systematic design on topics including, but not limited to:
+We solicit 6-page paper submissions with systematic design on topics including, but not limited to:
 
 * System-level Design for IoT (including low-power wireless networking, VLSI, standards-compliant or -compatible protocols, new radio designs, data fusion for multiple-sensor systems)
 * Crystal-Free Radio Design and Calibration Techniques
@@ -20,7 +20,8 @@ We solicit paper submissions with systematic design on topics including, but not
 * Cryptography for IoT devices (PUF, digital fingerprint, etc.)
 * Integrated Backscatter Devices
 
-We also welcome poster submissions in a short-paper format to showcase in-progress research, new problem discussions, or recent results.
+We also welcome poster submissions (with or without demos) in a 2-page short-paper format to showcase in-progress research, new problem discussions, or recent results.
+
 If the poster includes an interactive demo, the author(s) will be expected to bring all necessary equipment with them.
 The acceptance of paper and poster submissions will hinge on their novelty and relevance to the workshop.
 
@@ -38,11 +39,13 @@ We also invite any presenting authors to register and attend the main EWSN confe
 
 ## Submission Instructions
 
-The workshop language is in English. Submitted papers are required to comply with guidelines for ACM conference manuscripts and must not exceed 6 pages in length for papers and 2 pages for short submissions. ACM guides and templates for LaTeX and Word are available:
+The workshop language is in English. Submitted papers are required to comply with guidelines for ACM conference manuscripts and must not exceed 6 pages in length for regular workshop papers and 2 pages for short papers.
+
+ACM guides and templates for LaTeX and Word are available:
 
 * [Preparing Your Article with LaTeX
 ](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex)
 * [Preparing Your Article with Microsoft Word
 ](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word)
 
-[Submission site is hosted on EasyChair](https://easychair.org/conferences?conf=crystalfreeiot2025) and will open soon!
+[Submission site is hosted on EasyChair](https://easychair.org/conferences?conf=crystalfreeiot2025) and is open now!
