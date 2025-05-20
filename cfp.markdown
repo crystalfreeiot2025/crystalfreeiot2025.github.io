@@ -27,7 +27,7 @@ The acceptance of paper and poster submissions will hinge on their novelty and r
 
 ## Important Dates
 
-* Workshop Paper Deadline: 01 June 2025 (AoE, 23:59 UTC-12)
+* Workshop Paper Deadline: ~~01 June 2025 (AoE, 23:59 UTC-12)~~ 01 July 2025 (AoE, 23:59 UTC-12) (FIRM)
 * Notification of Paper Acceptance: 15 July 2025
 * Camera-Ready Deadline: 18 July 2025
 
