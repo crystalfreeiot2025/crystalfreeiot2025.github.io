@@ -6,10 +6,23 @@ permalink: /program/
 
 Tentative Program for Workshop Monday 22 September 2025
 
-Last updated 29 August 2025
+Last updated 02 September 2025
+
+# Information
+
+All papers, regardless of type, are currently allocated a 20 minute slot. This is intended to include a few minutes at the end for questions, so please plan for an approximately 15-17 minute presentation using slides.
+
+For poster papers, please come to the workshop with your poster. We will hang it in the morning before the first session and leave it up for the duration of the workshop.
+
+For poster papers that include a demo, you may include demonstration elements during your presentation. We will also have an interactive demo and discussion session in the afternoon for more detailed demonstrations. Ensure your demo has the correct power plug(s) and can accept 240 V 50 Hz AC. 
+
+There is no required format for slides and posters. We recommend slides with 16:9 aspect ratio and a poster of approximately A0 size, and can be oriented either horizontally or vertically.
+
+The exact location of the workshop is here: [https://www.kuleuven.be/kulag/en/lokaal/490-17-000004/onderwijs](https://www.kuleuven.be/kulag/en/lokaal/490-17-000004/onderwijs)
+
+# Schedule
 
 Note: Presenter is highlighted in **bold**. Each accepted paper has a 20 minute presentation slot, the presentation portion of which should conclude after 15-18 minutes to accommodate a brief Q&A.
-
 
 ## 08:45 - 10:00: All-conference opening session
 
