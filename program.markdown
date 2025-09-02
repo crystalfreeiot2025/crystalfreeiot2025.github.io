@@ -8,7 +8,7 @@ Tentative Program for Workshop Monday 22 September 2025
 
 Last updated 02 September 2025
 
-# Information
+## Information
 
 All papers, regardless of type, are currently allocated a 20 minute slot. This is intended to include a few minutes at the end for questions, so please plan for an approximately 15-17 minute presentation using slides.
 
@@ -20,17 +20,17 @@ There is no required format for slides and posters. We recommend slides with 16:
 
 The exact location of the workshop is here: [https://www.kuleuven.be/kulag/en/lokaal/490-17-000004/onderwijs](https://www.kuleuven.be/kulag/en/lokaal/490-17-000004/onderwijs)
 
-# Schedule
+## Schedule
 
-Note: Presenter is highlighted in **bold**. Each accepted paper has a 20 minute presentation slot, the presentation portion of which should conclude after 15-18 minutes to accommodate a brief Q&A.
+Note: Presenter is highlighted in **bold**. Each accepted paper has a 20 minute presentation slot, the presentation portion of which should conclude after 15-17 minutes to accommodate a brief Q&A.
 
-## 08:45 - 10:00: All-conference opening session
+### 08:45 - 10:00: All-conference opening session
 
 Opening & EWSN community event (single-track; with all participants)
 
-## 10:00 - 10:30: Coffee break
+### 10:00 - 10:30: Coffee break
 
-## 10:30 - 12:40: Session 1 
+### 10:30 - 12:40: Session 1 
 
 Introduction to Session 1
 
@@ -54,12 +54,12 @@ Authors: **Sara Faour**, Mališa Vučinić, Thomas Watteyne and Kristofer S.J. P
 Title: Using Ambient Bluetooth Low-Energy Signals to Calibrate a Crystal-Free Micro Mote<br>
 Authors: **Jacob Louie**, David Burnett and Tengfei Chang
 
-## 12:40 - 13:40: Lunch break
+### 12:40 - 13:40: Lunch break
 
 Details TBD
 
 
-## 13:40 - 15:10: Session 2
+### 13:40 - 15:10: Session 2
 
 Introduction to Session 2
 
@@ -77,19 +77,21 @@ Authors: **Nathan Sjullie**, Mitch Montee, Demetrius Van Sickle, John Yang, Alex
 Title: A Supporting Network for Crystal-Free Mesh<br>
 Authors: **Mitch Montee** and David Burnett
 
-## 15:10 - 15:20: Coffee break
+### 15:10 - 15:20: Coffee break
 
-## 15:20 - 16:45: Session 3
+### 15:20 - 16:45: Session 3
 
 Live Demonstration Session and Crystal-Free Open Discussion
 
-## 17:00 - 17:30: Visit to IMEC’s cleanroom
+### 17:00 - 17:30: Visit to IMEC’s cleanroom
 
 Participants must be pre-registered.
 
-## Starting at 18:00 or 18:30: Reception drinks (exact time to be confirmed)
+### 18:00 or 18:30: Reception drinks 
 
-## 19:00: Dinner session
+Exact start time to be confirmed
+
+### 19:00: Dinner session
 
 Venue TBD
 
