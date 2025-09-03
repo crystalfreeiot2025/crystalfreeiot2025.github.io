@@ -38,7 +38,7 @@ Title: RefCal: Regression-based multi-Frequencies Calibration for Crystal-Free m
 Authors: **Yiming Yuan**, Yuanming Luo, David Burnett, Filip Maksimovic and Tengfei Chang
 
 Title: An Open-Source Multi-Platform SDK for Programming SCuM<br>
-Authors: **Alexandre Abadie**, Titan Yuan, Thomas Watteyne and Filip Maksimovic
+Authors: Alexandre Abadie, Titan Yuan, Thomas Watteyne and **Filip Maksimovic**
 
 Title: Angle of Arrival Localization for Single-Chip Micro Mote<br>
 Authors: **Manjiang Cao**, Filip Maksimovic, David Burnett, Thomas Watteyne, Kristofer S.J. Pister and Tengfei Chang
@@ -64,10 +64,10 @@ Details TBD
 Introduction to Session 2
 
 Title: A RIOT Port for the Single-Chip Mote<br>
-Authors: **Alexandre Abadie**, Koen Zandberg, Thomas Watteyne and Filip Maksimovic
+Authors: Alexandre Abadie, Koen Zandberg, Thomas Watteyne and **Filip Maksimovic**
 
 Title: Ring Oscillator Frequency Stability Improvement Techniques for Crystal-Free Communication Systems<br>
-Authors: **Haziq Rohail** and David Burnett
+Authors: Haziq Rohail and **David Burnett**
 
 5 minute break
 
