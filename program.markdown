@@ -83,6 +83,8 @@ Authors: **Mitch Montee** and David Burnett
 
 Live Demonstration Session and Crystal-Free Open Discussion
 
+[Link to notes any attendees can use to capture discussion](https://hackmd.io/FddN8EsAT_ecAZhw_wWRuQ?both)
+
 ### 17:00 - 17:30: Visit to IMEC’s cleanroom
 
 Participants must be pre-registered.
