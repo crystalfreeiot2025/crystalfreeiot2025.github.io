@@ -55,7 +55,7 @@ The 2025 Workshop on Crystal-Free/-Less Radio and System-based Research for IoT 
 <img src="img/kuleuven.png" style="width:300px;"> 
 
 [<img src="img/openswarm.png" style="width:300px;">](https://openswarm.eu/)
-[<img src="img/villanova.png" style="width:300px;">](https://www.ece.villanova.edu/)
+[<img src="img/villanova.jpg" style="width:300px;">](https://www.ece.villanova.edu/)
 
 
 ### Inria SWARM2 Associate Team [crystalfree.org](http://www.crystalfree.org)
