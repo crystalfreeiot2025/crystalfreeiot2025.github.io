@@ -67,16 +67,16 @@ Authors: **Jacob Louie**, David Burnett and Tengfei Chang
 Title: A RIOT Port for the Single-Chip Mote<br>
 Authors: Alexandre Abadie, Koen Zandberg, Thomas Watteyne and **Filip Maksimovic**
 
-Title: Ring Oscillator Frequency Stability Improvement Techniques for Crystal-Free Communication Systems<br>
-Authors: Haziq Rohail and **David Burnett**
-
-5 minute break
-
 Title: Single-Chip micro-Mote Observatory<br>
 Authors: **Nathan Sjullie**, Mitch Montee, Demetrius Van Sickle, John Yang, Alex Jain, John Acken and David Burnett
 
+5 minute break
+
 Title: A Supporting Network for Crystal-Free Mesh<br>
 Authors: **Mitch Montee** and David Burnett
+
+Title: Ring Oscillator Frequency Stability Improvement Techniques for Crystal-Free Communication Systems<br>
+Authors: Haziq Rohail and **David Burnett**
 
 ### 15:20 - 15:30: Coffee break
 
