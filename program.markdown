@@ -32,7 +32,7 @@ Opening & EWSN community event (single-track; with all participants)
 
 ### 10:00 - 10:30: Coffee break
 
-### 10:30 - 12:40: Session 1 
+### 10:30 - 12:30: Session 1 
 
 Introduction to Session 1
 
@@ -53,17 +53,17 @@ Authors: **Mengyao Liu**, Luiz Sampaio, Jonathan Oostvogels, Kate O'Riordan, Sam
 Title: Two-Stage Threshold-based Majority Voting Scheme (TS-TMVS) for Robust SRAM PUFs<br>
 Authors: **Sara Faour**, Mališa Vučinić, Thomas Watteyne and Kristofer S.J. Pister
 
-Title: Using Ambient Bluetooth Low-Energy Signals to Calibrate a Crystal-Free Micro Mote<br>
-Authors: **Jacob Louie**, David Burnett and Tengfei Chang
-
-### 12:40 - 13:40: Lunch break
+### 12:30 - 13:30: Lunch break
 
 Details TBD
 
 
-### 13:40 - 15:10: Session 2
+### 13:30 - 15:20: Session 2
 
 Introduction to Session 2
+
+Title: Using Ambient Bluetooth Low-Energy Signals to Calibrate a Crystal-Free Micro Mote<br>
+Authors: **Jacob Louie**, David Burnett and Tengfei Chang
 
 Title: A RIOT Port for the Single-Chip Mote<br>
 Authors: Alexandre Abadie, Koen Zandberg, Thomas Watteyne and **Filip Maksimovic**
@@ -79,9 +79,9 @@ Authors: **Nathan Sjullie**, Mitch Montee, Demetrius Van Sickle, John Yang, Alex
 Title: A Supporting Network for Crystal-Free Mesh<br>
 Authors: **Mitch Montee** and David Burnett
 
-### 15:10 - 15:20: Coffee break
+### 15:20 - 15:30: Coffee break
 
-### 15:20 - 16:45: Session 3
+### 15:30 - 16:45: Session 3
 
 Live Demonstration Session and Crystal-Free Open Discussion
 
