@@ -55,8 +55,7 @@ Authors: **Sara Faour**, Mališa Vučinić, Thomas Watteyne and Kristofer S.J. P
 
 ### 12:30 - 13:30: Lunch break
 
-Details TBD
-
+Served at imec 1
 
 ### 13:30 - 15:20: Session 2
 
