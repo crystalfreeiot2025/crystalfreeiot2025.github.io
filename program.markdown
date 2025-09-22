@@ -6,7 +6,7 @@ permalink: /program/
 
 Tentative Program for Workshop Monday 22 September 2025
 
-Last updated 17 September 2025
+Last updated 22 September 2025
 
 ## Information
 
@@ -18,7 +18,7 @@ For papers that include a demo, you may include demonstration elements during yo
 
 There is no required format for slides and posters. We recommend slides with 16:9 aspect ratio and a poster of approximately A0 size, and can be oriented either horizontally or vertically.
 
-As reflected in the [EWSN detailed program](https://www.ewsn25.cs.kuleuven.be/program/detailed-program), the exact location of the workshop is Room 05.152 of the [CS/200A Building](https://www.kuleuven.be/kulag/en/lokaal/490-17-000004/onderwijs).
+As reflected in the [EWSN detailed program](https://www.ewsn25.cs.kuleuven.be/program/detailed-program), the exact location of the workshop is Room 05.152 of the [CS/200A Building](https://www.kuleuven.be/kulag/en/gebouw/490-12).
 
 A WhatsApp group for the workshop has been created. Check your email or contact a workshop organizer for details.
 
