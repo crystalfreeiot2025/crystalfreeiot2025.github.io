@@ -90,11 +90,11 @@ Live Demonstration Session and Crystal-Free Open Discussion
 
 Participants must be pre-registered.
 
-### 18:00 or 18:30: Reception drinks 
+### 18:30 - 19:30: Reception drinks 
 
-Exact start time to be confirmed
+Held at Leuven's Botanical Garden
 
-### 19:00: Dinner session
+### 19:30: Dinner session
 
 Venue TBD
 
